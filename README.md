@@ -1,4 +1,4 @@
-## Hi there 👋
+เริ่มต้นกันเลย## Hi there 👋
 
 <!--
 **Bauk666/Bauk666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
